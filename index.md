@@ -1,7 +1,7 @@
 <html>
         <head>
-<meta charset="utf-8">
-<title> Basic Guide To Investing </title>
+                <meta charset="utf-8">
+                <title> Basic Guide To Investing </title>
         <style>
             h1 {background-color: lightgrey; color:black; font-family:courier;}
             body {background-color:black;}
